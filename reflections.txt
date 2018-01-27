@@ -4,3 +4,12 @@ What do you think are the pros and cons of manually choosing when to create a co
 like you do in Git, vs having versions automatically saved, like Google Docs does?
 
 Can commit according to each logical change
+
+Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Different usage
+
+How can you use the commands git log and git diff to view the history of files?
+
+Just git log and git diff firstid secid
