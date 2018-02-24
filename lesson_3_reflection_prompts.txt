@@ -8,3 +8,8 @@ than having Git automatically stay up-to-date with your
 remote repository?
 
 Because you may not want to include the commit yet, might mess up your current build
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+Fork from other ppl's git, clone to local and create branch for different experiments
